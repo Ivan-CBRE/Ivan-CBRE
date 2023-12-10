@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about cloud IaC DevOps in MS Azure and M365 technologies. Life's a learning experience and getting better at it every day,
 
 *   🌍  I'm based in London, UK<img src="https://em-content.zobj.net/source/telegram/386/flag-united-kingdom_1f1ec-1f1e7.webp" width="30" height="30" alt="Icon">
-*   🚀  I'm currently working on [#myself](http://github.com/Ivan-CBRE) 👯
+*   🚀  I'm currently working on [#myself](https://github.com/Ivan-CBRE) 👯
 *   🧠  I'm learning <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="20" height="20" alt="Icon"> [Terraform IaC](https://www.terraform.io/use-cases/infrastructure-as-code) 👯
 *   🤝  I'm open to 👯 collaborating on MS Azure ☁ DevOps IaC, M365 Cloud solutions
 *   ⚡  Ask me about anythigng, 💬 I'm always happy to help! 😄
